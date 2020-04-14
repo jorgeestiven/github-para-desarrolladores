@@ -1,1 +1,2 @@
-alert("editando ando");
+alert("cambios en el producto");
+
