@@ -1,1 +1,1 @@
-alert("new rules");
+alert("editando ando");
